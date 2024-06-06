@@ -8,4 +8,4 @@ Bei jedem Klick auf die Anwesenheitstage, zählt der Counter im Feld "Verbleiben
 Das Programm speichert die Eingaben automatisch, auf Wunsch kann man auch die Resultate als PNG oder PDF exportieren.
 
 
-<img src="https://github.com/Gerald-Ha/KalenderApp/assets/53166232/b11bd3a3-305a-4246-bef7-c66034371085" width="500" height="auto">
+<img src="https://github.com/Gerald-Ha/KalenderApp/assets/53166232/81a3b78f-84f4-4345-a8f8-3fad7f8d3180" width="500" height="auto">
